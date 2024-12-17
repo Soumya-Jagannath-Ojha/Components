@@ -8,3 +8,7 @@
 - Disabled State: Prevents loading when the maximum number of items is reached.
 - Customizable: Easily adapt to different datasets and APIs.
 
+## Gradient Button
+
+- Beautiful Gradient at the bottom
+
