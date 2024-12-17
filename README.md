@@ -1,6 +1,6 @@
 # Componenst
 
-## Load More Component
+## Load More Button
 
 - Responsive Design: Automatically adjusts layout for different screen sizes.
 - Infinite Loading: Supports a "load more" button to fetch additional products dynamically.
